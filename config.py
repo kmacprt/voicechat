@@ -2,13 +2,11 @@
 
 from pyrogram import filters
 
-API_ID = 1234567
-API_HASH = "ab1c23def45fg67890h123i45678j9kl"
-TOKEN = "1234567890:ABCdEFgHij1KlMNop_QrStuVWxyzuA-EmXI"
+API_ID = 1383845
+API_HASH = "0e3d2c299cc3c5cc26c283cecd2eb97c"
+TOKEN = "1474570701:AAH-fVS4OM5yHpePfEpnXD145xzSFW4NUxc"
 SUDO_USERS = [
-    383407735,
-    951435494,
-    1392620345
+    1131653685,
 ]
 LOG_GROUP = None # Just keep it like this if you are not going to use one
 
